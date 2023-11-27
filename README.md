@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi there 👋
+
 <p align="center">
 <a href="https://github.com/cmiesnerv">
   <img height="180em" src="https://github-readme-stats-clorhidricos-projects.vercel.app/api?username=cmiesnerv&show_icons=true&theme=tokyonight&include_all_commits=true"/>
